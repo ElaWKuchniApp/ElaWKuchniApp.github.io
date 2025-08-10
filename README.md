@@ -1,1 +1,3 @@
-Strona gdzie opisane jest co się będzie działo w tej aplikacji. W razie pytań prosimy o kontakt. 
+Czekam na funkcjonalności do piątku! :) 
+Tutaj Ci wypiszemy co już mamy:
+1. Na razie nic
